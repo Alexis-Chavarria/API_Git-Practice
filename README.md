@@ -1,6 +1,7 @@
 # API_Git-Practice
 
 Descripción corta y concisa de tu API.
+<br> <!-- Este es un salto de línea -->
 
 ## Tabla de Contenidos
 
@@ -13,12 +14,15 @@ Descripción corta y concisa de tu API.
 - [Contribución](#contribución)
 - [Licencia](#licencia)
 
+<br> <!-- Este es un salto de línea -->
+
 ## Requisitos
 
 Antes de comenzar, asegúrate de tener lo siguiente instalado en tu sistema:
 - [.NET Core SDK]
 - [Visual Studio] (opcional)
 
+<br> <!-- Este es un salto de línea -->
 
 ## Instalación
 
@@ -31,6 +35,7 @@ git clone https://github.com/Alexis-Chavarria/API_Git-Practice.git
 
 2. Abre el proyecto en tu entorno de desarrollo preferido (Visual Studio).
 
+<br> <!-- Este es un salto de línea -->
 
 ## Configuración
 
@@ -49,7 +54,7 @@ La configuración de la API se realiza a través del archivo "appsettings.json".
   "AllowedHosts": "*"
 }
 ```
-
+<br> <!-- Este es un salto de línea -->
 
 ## Ejecución
 
@@ -64,14 +69,17 @@ dotnet run
 ```
 La API estará disponible en https://localhost:7125/WeatherForecast
 
+<br> <!-- Este es un salto de línea -->
 
 ## Documentación
 La documentación de la API se encuentra en https://localhost:7125/swagger/index.html. Puedes explorar y probar los endpoints desde allí.
 
+<br> <!-- Este es un salto de línea -->
 
 ## Contribución
 ¡Agradecemos las contribuciones! Si deseas contribuir a API_Git-Practice
 
+<br> <!-- Este es un salto de línea -->
 
 ## Licencia
 
