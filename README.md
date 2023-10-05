@@ -85,8 +85,27 @@ La documentación de la API se encuentra en https://localhost:7125/swagger/index
 
 Este proyecto está bajo la licencia VexAlexis. Consulta el archivo LICENSE para obtener más detalles.
 
-#### Este es un ejemplo de README para proyectos futuros en los que se desee implementar esta plantilla.
+<br> <!-- Este es un salto de línea -->
 
+*Este es un ejemplo de README para proyectos futuros en los que se desee implementar esta plantilla.*
+**FIN**
+> Esto es una cita.
+`var ejemplo = 42. (código en línea)`
+```python
+def funcion_ejemplo():
+    return "Hola, mundo"
+(bloques de código del lenguaje de programación)
+```
+---
+Separar secciones
+***
+Tablas: 
+Utilizando barras verticales (|) para separar columnas y guiones (-) para definir la fila de encabezado
+
+| Encabezado 1 | Encabezado 2 |
+|--------------|--------------|
+| Celda 1,1    | Celda 1,2    |
+| Celda 2,1    | Celda 2,2    |
 
 
 
