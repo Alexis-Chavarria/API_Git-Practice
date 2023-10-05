@@ -15,11 +15,21 @@ Descripción corta y concisa de tu API.
 
 ## Requisitos
 
-Enumera los requisitos previos para poder utilizar tu API, como versiones de software, servicios externos, etc.
+Antes de comenzar, asegúrate de tener lo siguiente instalado en tu sistema:
+- [.NET Core SDK]
+- [Visual Studio] (opcional)
+
 
 ## Instalación
 
-Proporciona instrucciones sobre cómo instalar tu API, incluyendo cualquier comando o script necesario.
+1. Clona este repositorio en tu máquina local:
 
 ```bash
-npm install mi-api
+git clone https://github.com/Alexis-Chavarria/API_Git-Practice.git
+
+2. Abre el proyecto en tu entorno de desarrollo preferido (Visual Studio).
+
+
+## Configuración
+
+La configuración de la API se realiza a través del archivo "appsettings.json". Abre este archivo y modifica las siguientes configuraciones según tus necesidades:
