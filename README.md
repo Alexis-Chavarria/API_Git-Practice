@@ -108,4 +108,23 @@ Utilizando barras verticales (|) para separar columnas y guiones (-) para defini
 | Celda 2,1    | Celda 2,2    |
 
 
+---
+
+## cada una de las capas de tu arquitectura en una aplicación ASP.NET con SQL Server
+
+## conexion a base de datos utilizando ASP.NET Core
+
+## Dame una lista de los conceptos, principios y/o buenas practicas que se utilizan en el desarrollo de un API Rest ASP.NET y SQLServer con la siguiente arquitectura: Controllers, Models, Services, Data (DataAccess)
+
+
+## Ahora dame una lista de principios y buenas practicas que se implementan
+
+## Dame una lista de tecnologias, herramientas y buenas practicas que se utilizan para mi API desarrollada en ASP.NET y SQL Serve
+
+## Quiero añadirle asincronia, para ello necesito que me ayudes arreglando mi codigo
+
+## Dame el codigo en C# y ASP.NET para implementar autenticacion y autorizacion a mi API Rest
+
+## Que otras etiquetas o simbolos son utilizados para archivos README
+(API ASP.NET Buena Practica)
 
