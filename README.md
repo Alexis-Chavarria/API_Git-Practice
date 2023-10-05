@@ -85,7 +85,7 @@ La documentación de la API se encuentra en https://localhost:7125/swagger/index
 
 Este proyecto está bajo la licencia VexAlexis. Consulta el archivo LICENSE para obtener más detalles.
 
-# Este es un ejemplo de README para proyectos futuros en los que se desee implementar esta plantilla.
+#### Este es un ejemplo de README para proyectos futuros en los que se desee implementar esta plantilla.
 
 
 
